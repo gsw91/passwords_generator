@@ -20,6 +20,7 @@ You must select at least one option.
 
 
 
+
 When user entries a password length, the application generates password
 
 and shows it into new window. There is also possibility of creating a txt file
@@ -32,11 +33,13 @@ and will place all created passwords right there.
 
 
 
+
 In this project there is used a library to logging users activity and collecting
 
 warnings and errors:            --->>> org.apache.log4j <<<---
 
 All logs are saving into file log4j-application.log which is located into resources directory
+
 
 
 

@@ -1,0 +1,7 @@
+Welcome in Password Generator application!
+
+1. Enter length of password
+2. Select options of collections of characters you want to use
+3. (Optional) select if you want to create file with password
+   It will be created in the "password" folder on the desktop
+4. Click "Generate"

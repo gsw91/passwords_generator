@@ -1,0 +1,217 @@
+2018-08-07 10:00:36 INFO  MainFrame:23 - Application started
+2018-08-07 10:00:42 WARN  CenterPanel:75 - User entered wrong number
+2018-08-07 10:01:13 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:01:13 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:01:16 INFO  MainFrame:49 - Application closed
+2018-08-07 10:01:44 INFO  MainFrame:23 - Application started
+2018-08-07 10:01:46 WARN  CenterPanel:75 - User entered wrong number
+2018-08-07 10:01:48 WARN  CenterPanel:69 - User did not choose any list of signs
+2018-08-07 10:01:58 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:02:01 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:02:01 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:02:11 INFO  MainFrame:49 - Application closed
+2018-08-07 10:10:11 INFO  MainFrame:23 - Application started
+2018-08-07 10:10:14 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:10:16 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:10:16 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:10:20 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:10:20 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:10:26 INFO  MainFrame:49 - Application closed
+2018-08-07 10:19:47 INFO  MainFrame:23 - Application started
+2018-08-07 10:19:57 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:19:57 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:20:00 INFO  MainFrame:49 - Application closed
+2018-08-07 10:24:30 INFO  MainFrame:23 - Application started
+2018-08-07 10:24:35 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:25:14 INFO  MainFrame:23 - Application started
+2018-08-07 10:25:22 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:25:41 INFO  MainFrame:23 - Application started
+2018-08-07 10:25:44 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:26:22 INFO  MainFrame:49 - Application closed
+2018-08-07 10:26:23 INFO  MainFrame:49 - Application closed
+2018-08-07 10:26:25 INFO  MainFrame:49 - Application closed
+2018-08-07 10:28:35 INFO  MainFrame:23 - Application started
+2018-08-07 10:28:39 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:28:43 INFO  MainFrame:49 - Application closed
+2018-08-07 10:29:55 INFO  MainFrame:23 - Application started
+2018-08-07 10:29:59 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:30:01 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:30:04 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:34:55 INFO  MainFrame:23 - Application started
+2018-08-07 10:34:59 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:35:07 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:35:13 INFO  MainFrame:49 - Application closed
+2018-08-07 10:35:20 INFO  MainFrame:49 - Application closed
+2018-08-07 10:35:20 INFO  MainFrame:23 - Application started
+2018-08-07 10:35:24 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:35:30 INFO  MainFrame:49 - Application closed
+2018-08-07 10:35:35 INFO  MainFrame:23 - Application started
+2018-08-07 10:35:38 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:39:43 INFO  MainFrame:49 - Application closed
+2018-08-07 10:39:51 INFO  MainFrame:23 - Application started
+2018-08-07 10:39:54 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:39:56 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:40:26 INFO  MainFrame:49 - Application closed
+2018-08-07 10:40:35 INFO  MainFrame:23 - Application started
+2018-08-07 10:40:38 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:40:38 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:40:43 INFO  MainFrame:49 - Application closed
+2018-08-07 10:41:03 INFO  MainFrame:23 - Application started
+2018-08-07 10:41:07 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:41:07 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:42:07 INFO  MainFrame:49 - Application closed
+2018-08-07 10:42:14 INFO  MainFrame:23 - Application started
+2018-08-07 10:42:16 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:42:16 WARN  PasswordBuilder:43 - File creation failed
+2018-08-07 10:42:16 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:42:26 INFO  MainFrame:49 - Application closed
+2018-08-07 10:42:58 INFO  MainFrame:23 - Application started
+2018-08-07 10:43:01 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:43:04 INFO  MainFrame:49 - Application closed
+2018-08-07 10:47:03 INFO  MainFrame:23 - Application started
+2018-08-07 10:48:19 INFO  MainFrame:49 - Application closed
+2018-08-07 10:48:34 INFO  MainFrame:23 - Application started
+2018-08-07 10:48:37 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:48:37 INFO  PasswordBuilder:36 - Creating new folder for passwords
+2018-08-07 10:48:37 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:48:43 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:48:43 INFO  CenterPanel:64 - File with password created on pulpit
+2018-08-07 10:49:23 INFO  MainFrame:23 - Application started
+2018-08-07 10:49:40 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 10:49:40 INFO  PasswordBuilder:36 - Creating new folder for passwords
+2018-08-07 10:49:40 INFO  CenterPanel:64 - File with password created in directory
+2018-08-07 10:50:02 INFO  MainFrame:49 - Application closed
+2018-08-07 10:51:34 INFO  MainFrame:23 - Application started
+2018-08-07 10:51:58 INFO  MainFrame:49 - Application closed
+2018-08-07 13:52:24 INFO  MainFrame:23 - Application started
+2018-08-07 13:52:27 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 13:52:31 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 13:52:31 ERROR PasswordID:29 - No file with next password id found
+2018-08-07 13:52:31 ERROR PasswordID:29 - No file with next password id found
+2018-08-07 13:52:31 INFO  CenterPanel:64 - File with password created in directory
+2018-08-07 13:53:14 INFO  MainFrame:23 - Application started
+2018-08-07 13:53:18 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 13:53:21 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 13:53:21 ERROR PasswordID:30 - No file with next password id found
+2018-08-07 13:53:21 ERROR PasswordID:30 - No file with next password id found
+2018-08-07 13:53:21 INFO  CenterPanel:64 - File with password created in directory
+2018-08-07 13:53:25 INFO  MainFrame:49 - Application closed
+2018-08-07 13:57:26 INFO  MainFrame:23 - Application started
+2018-08-07 13:57:28 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 13:57:30 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 13:57:30 ERROR PasswordID:26 - No file with next password id found
+2018-08-07 13:57:30 WARN  PasswordCreation:68 - Password file creation failed
+2018-08-07 13:57:30 INFO  CenterPanel:64 - File with password created in directory
+2018-08-07 14:01:20 INFO  MainFrame:23 - Application started
+2018-08-07 14:01:25 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:01:27 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:01:27 ERROR PasswordID:26 - No file with next password id found
+2018-08-07 14:01:27 WARN  PasswordCreation:69 - Password file creation failed
+2018-08-07 14:11:34 INFO  MainFrame:49 - Application closed
+2018-08-07 14:19:52 INFO  MainFrame:23 - Application started
+2018-08-07 14:20:01 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:20:01 INFO  CenterPanel:65 - File with password created in directory
+2018-08-07 14:20:04 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:20:04 INFO  CenterPanel:65 - File with password created in directory
+2018-08-07 14:20:06 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:20:09 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:20:12 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:20:15 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:20:17 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:20:17 INFO  CenterPanel:65 - File with password created in directory
+2018-08-07 14:26:42 INFO  MainFrame:23 - Application started
+2018-08-07 14:26:44 INFO  MainFrame:49 - Application closed
+2018-08-07 14:26:54 INFO  MainFrame:23 - Application started
+2018-08-07 14:27:01 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:27:03 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:27:05 INFO  CenterPanel:61 - Password created successfully 
+2018-08-07 14:27:05 INFO  PasswordCreation:38 - Creating new folder for passwords
+2018-08-07 14:27:05 INFO  CenterPanel:65 - File with password created in directory
+2018-08-07 14:27:09 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:27:10 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:27:11 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:27:11 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:27:11 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:27:11 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:27:13 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:27:15 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:30:24 INFO  MainFrame:49 - Application closed
+2018-08-07 14:30:34 INFO  MainFrame:23 - Application started
+2018-08-07 14:30:39 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:30:47 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:30:50 WARN  InformationFrame:77 - Information file not found
+2018-08-07 14:30:54 INFO  MainFrame:49 - Application closed
+2018-08-07 14:31:05 INFO  MainFrame:23 - Application started
+2018-08-07 14:31:11 INFO  MainFrame:49 - Application closed
+2018-08-07 14:32:09 INFO  MainFrame:23 - Application started
+2018-08-07 14:32:11 INFO  InformationFrame:74 - User opened information frame
+2018-08-07 14:32:19 WARN  CenterPanel:77 - User entered wrong number
+2018-08-07 14:32:23 INFO  MainFrame:49 - Application closed
+2018-08-07 15:20:26 INFO  MainFrame:27 - Application started
+2018-08-07 15:20:33 INFO  CenterPanel:72 - Password created successfully 
+2018-08-07 15:20:34 INFO  CenterPanel:78 - File with password created in directory
+2018-08-07 15:20:38 INFO  CenterPanel:72 - Password created successfully 
+2018-08-07 15:20:44 INFO  InformationFrame:70 - User opened information frame
+2018-08-07 15:22:18 INFO  MainFrame:27 - Application started
+2018-08-07 15:22:37 WARN  CenterPanel:103 - User entered wrong number
+2018-08-07 15:22:51 INFO  InformationFrame:70 - User opened information frame
+2018-08-07 15:22:53 WARN  CenterPanel:103 - User entered wrong number
+2018-08-07 15:22:56 WARN  CenterPanel:103 - User entered wrong number
+2018-08-07 15:22:58 WARN  CenterPanel:103 - User entered wrong number
+2018-08-07 15:23:04 WARN  CenterPanel:97 - User did not choose any list of signs
+2018-08-07 15:23:06 WARN  CenterPanel:97 - User did not choose any list of signs
+2018-08-07 15:23:08 INFO  CenterPanel:82 - Password created successfully 
+2018-08-07 15:23:10 INFO  CenterPanel:82 - Password created successfully 
+2018-08-07 15:23:10 INFO  CenterPanel:88 - File with password created in directory
+2018-08-07 15:23:12 INFO  CenterPanel:82 - Password created successfully 
+2018-08-07 15:23:12 INFO  CenterPanel:88 - File with password created in directory
+2018-08-07 15:23:23 INFO  CenterPanel:82 - Password created successfully 
+2018-08-07 15:23:23 INFO  CenterPanel:88 - File with password created in directory
+2018-08-07 15:23:25 INFO  MainFrame:49 - Application closed
+2018-08-07 15:24:46 INFO  MainFrame:27 - Application started
+2018-08-07 15:24:47 WARN  CenterPanel:71 - No entered value for password length, setting 0
+2018-08-07 15:24:47 WARN  CenterPanel:104 - User entered wrong number
+2018-08-07 15:25:05 INFO  MainFrame:49 - Application closed
+2018-08-07 15:25:42 INFO  MainFrame:27 - Application started
+2018-08-07 15:25:53 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 15:25:53 INFO  CenterPanel:82 - File with password created in directory
+2018-08-07 15:25:55 INFO  MainFrame:49 - Application closed
+2018-08-07 16:10:42 INFO  MainFrame:27 - Application started
+2018-08-07 16:10:52 WARN  CenterPanel:103 - No entered value for password length, setting 0
+2018-08-07 16:10:55 WARN  CenterPanel:91 - User did not choose any list of signs
+2018-08-07 16:11:09 INFO  InformationFrame:70 - User opened information frame
+2018-08-07 16:11:13 WARN  CenterPanel:91 - User did not choose any list of signs
+2018-08-07 16:11:56 WARN  CenterPanel:91 - User did not choose any list of signs
+2018-08-07 16:12:05 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:12:05 INFO  CenterPanel:82 - File with password created in directory
+2018-08-07 16:12:15 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:12:15 INFO  CenterPanel:82 - File with password created in directory
+2018-08-07 16:14:00 INFO  MainFrame:58 - Application closed
+2018-08-07 16:14:40 INFO  MainFrame:27 - Application started
+2018-08-07 16:14:42 WARN  CenterPanel:103 - No entered value for password length
+2018-08-07 16:14:47 WARN  CenterPanel:91 - User did not choose any list of signs
+2018-08-07 16:14:56 INFO  InformationFrame:70 - User opened information frame
+2018-08-07 16:15:33 INFO  MainFrame:58 - Application closed
+2018-08-07 16:15:40 INFO  MainFrame:27 - Application started
+2018-08-07 16:16:16 INFO  MainFrame:27 - Application started
+2018-08-07 16:17:02 WARN  CenterPanel:91 - User did not choose any list of signs
+2018-08-07 16:17:07 WARN  CenterPanel:103 - No entered value for password length
+2018-08-07 16:17:10 INFO  InformationFrame:70 - User opened information frame
+2018-08-07 16:17:18 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:17:23 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:17:27 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:17:27 INFO  CenterPanel:82 - File with password created in directory
+2018-08-07 16:18:40 INFO  MainFrame:58 - Application closed
+2018-08-07 16:18:42 INFO  MainFrame:58 - Application closed
+2018-08-07 16:19:29 INFO  MainFrame:27 - Application started
+2018-08-07 16:19:32 WARN  CenterPanel:103 - No entered value for password length
+2018-08-07 16:19:39 WARN  CenterPanel:91 - User did not choose any list of characters
+2018-08-07 16:19:42 INFO  InformationFrame:70 - User opened information frame
+2018-08-07 16:19:46 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:19:49 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:19:49 INFO  CenterPanel:82 - File with password created in directory
+2018-08-07 16:19:52 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:19:52 INFO  CenterPanel:82 - File with password created in directory
+2018-08-07 16:19:56 INFO  CenterPanel:76 - Password created successfully 
+2018-08-07 16:19:56 INFO  CenterPanel:82 - File with password created in directory
+2018-08-07 16:20:31 INFO  MainFrame:58 - Application closed
